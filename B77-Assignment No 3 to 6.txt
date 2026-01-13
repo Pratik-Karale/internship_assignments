@@ -1,0 +1,14 @@
+﻿Assignment No 3
+elect a random dataset and perform all the data preprocessing steps
+
+
+Assignment No 4
+STake any dataset from kaggle and perform all the EDA operations on the dataset
+
+
+Assignment No 5
+Take any dataset from kaggle and perform linear regression for single variable and do the predictions
+
+
+Assignment No 6
+Take a any dataset from kaggle and make visualization
